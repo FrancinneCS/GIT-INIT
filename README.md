@@ -1,5 +1,4 @@
 # GIT-INIT
-# GIT-INIT
 
 Visão geral
 
